@@ -1,0 +1,24 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "download ebook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoye-fe/Ebook.git"
+  },
+  "author": " <luoye luoyefe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoye-fe/Ebook/issues"
+  },
+  "homepage": "https://github.com/luoye-fe/Ebook#readme",
+  "dependencies": {
+    "epub-gen": "^0.0.17",
+    "form-data": "^2.1.2",
+    "node-fetch": "^1.6.3"
+  }
+}
